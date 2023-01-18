@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Amherst Shore",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced"
+    ],
+    "place": "6596 Hwy 366, Amherst Shore, NS B0L 1E0",
+    "properties": [
+      "Park office",
+      "Vault toilet",
+      "Restroom with shower",
+      "Campsites",
+      "Camper shelter"
+    ]
+  },
+  {
+    "name": "Battery",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "10110 Hwy 4, St. Peter's, NS B0E 3B0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Dishwashing Station",
+      "Firewood/Ice",
+      "Program Area"
+    ]
+  },
+  {
+    "name": "Blomidon",
+    "types_of_Campsites": [
+      "unserviced",
+      "group campsite"
+    ],
+    "place": "3138 Pereau Road, Canning, NS B0P 1H0",
+    "properties": [
+      "Park office",
+      "Registration Kiosk",
+      "Restrooms with showers",
+      "Day Use/Picnic Area",
+      "Hiking Trail"
+    ],
+    "size": "759 ha (1,875 acres)"
+  },
+  {
+    "name": "Boylston",
+    "types_of_Campsites": [
+      "unserviced"
+    ],
+    "place": "11131 Hwy 16, Boylston, NS B0H 1N0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Program Area",
+      "Shoreline Access",
+      "Paddling (Canoe/Kayak)"
+    ]
+  },
+  {
+    "name": "Cape Chignecto",
+    "types_of_Campsites": [
+      "backcountry",
+      "walk-in",
+      "kayak",
+      "group campsite"
+    ],
+    "place": "1108 West Advocate Road, Advocate Harbour, NS B0M 1A0",
+    "properties": [
+      "Park office",
+      "Pit Privies",
+      "BBQ's/Fires",
+      "Look Off"
+    ]
+  },
+  {
+    "name": "Caribou-Munroes Island",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "2119 Three Brooks Road, Caribou, NS B0K 1H0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Trailer Dump",
+      "Swimming Unsupervised",
+      "Day Use/Picnic Area"
+    ]
+  },
+  {
+    "name": "Dollar Lake",
+    "types_of_Campsites": [
+      "unserviced",
+      "group campsite"
+    ],
+    "place": "5265 Old Guysborough Road, Wyses Corner, NS B0N 1V0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Flush toilets (day use)",
+      "Beach access"
+    ]
+  },
+  {
+    "name": "Ellenwood Lake",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "1888 Mood Road, Deerfield, NS B0W 3E0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Registration Kiosk",
+      "Firewood/Ice",
+      "Beach Access",
+      "Change House"
+    ],
+    "size": "114 ha (280 acre)"
+  },
+  {
+    "name": "Five Islands",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "618 Bentley Branch Road (Hwy 2), Five Islands, NS B0M 1K0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Firewood/Ice",
+      "Beach Access",
+      "Change House"
+    ]
+  },
+  {
+    "name": "Graves Island",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "230 Graves Island Road, East Chester, NS B0J 1J0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Paddling (Canoe/Kayak)",
+      "Firewood/Ice",
+      "Beach Access",
+      "Change House"
+    ]
+  },
+  {
+    "name": "Laurie",
+    "types_of_Campsites": [
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "4949 Hwy 2, Grand Lake, NS B0N 1Z0\n",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Paddling (Canoe/Kayak)",
+      "Firewood/Ice",
+      "Beach Access"
+    ]
+  },
+  {
+    "name": "Mira River",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "439 Brickyard Road, Albert Bridge, NS  B1K 2R9",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Paddling (Canoe/Kayak)",
+      "Firewood/Ice",
+      "Unsupervised swimming"
+    ]
+  },
+  {
+    "name": "Porters Lake",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "1160 West Porters Lake Road, Porters Lake, NS B3E 1L3",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Paddling (Canoe/Kayak)",
+      "Firewood/Ice",
+      "Unsupervised swimming"
+    ]
+  },
+  {
+    "name": "Rissers Beach",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in"
+    ],
+    "place": "5366 Hwy 331, Crescent Beach, NS B4V 6P2",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Paddling (Canoe/Kayak)",
+      "Firewood/Ice",
+      "Unsupervised swimming"
+    ]
+  },
+  {
+    "name": "Salsman",
+    "types_of_Campsites": [
+      "unserviced"
+    ],
+    "place": "15641 Hwy 316, Country Harbour, NS B0H 1J0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Paddling (Canoe/Kayak)",
+      "Fishing"
+    ]
+  },
+  {
+    "name": "Smileys",
+    "types_of_Campsites": [
+      "unserviced",
+      "walk-in",
+      "group campsite"
+    ],
+    "place": "109 Clayton McKay Road, Hwy 14, Brooklyn, NS B0N 2A0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Swimming Unsupervised",
+      "Fishing",
+      "Change House"
+    ]
+  },
+  {
+    "name": "The Islands",
+    "types_of_Campsites": [
+      "unserviced",
+      "walk-in",
+      "group campsite"
+    ],
+    "place": "183 Islands Park Road, Shelburne, NS B0T 1W0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Fishing",
+      "Boat Launch"
+    ]
+  },
+  {
+    "name": "Thomas Raddall",
+    "types_of_Campsites": [
+      "unserviced",
+      "walk-in",
+      "group campsite"
+    ],
+    "place": "529 Raddall Park Road, Port Joli, NS B0T 1S0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Swimming Unsupervised",
+      "Fishing",
+      "Paddling (Canoe/Kayak)"
+    ]
+  },
+  {
+    "name": "Valleyview",
+    "types_of_Campsites": [
+      "unserviced",
+      "walk-in",
+      "group campsite"
+    ],
+    "place": "960 Hampton Mountain Road, Bridgetown, NS B0S 1L0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "Day Use/Picnic Area",
+      "Fishing",
+      "Hiking Trail"
+    ]
+  },
+  {
+    "name": "Whycocomagh",
+    "types_of_Campsites": [
+      "serviced",
+      "unserviced",
+      "walk-in",
+      "group campsite"
+    ],
+    "place": "89 Provincial Park Road, Whycocomagh, NS B0E 3M0",
+    "properties": [
+      "Park office",
+      "Restroom with showers",
+      "Campsites",
+      "3 Yurts",
+      "Hiking Trail",
+      "Playground"
+    ]
+  }
+]
