@@ -23,14 +23,9 @@ public class s3Bucket {
 
         //provide credentials to create connection
         BasicSessionCredentials sessionCredentials = new BasicSessionCredentials(
-                "ASIARLJZH5IEGDGIMJFK",
-                "vKsjChT5EZsbYOgFJtMoYbed7Ibdi+dGLTf18j6R",
-            "FwoGZXIvYXdzEPL//////////wEaDB9Mv/we577twI7uCSLAAZWqW8x1lzAOPm" +
-                    "FycWiL0RuydxJQjHmfBt+EOuFePmsAnPlYI5LK/kFp2LI+D7ji271FahA8AFyJ5gjAe" +
-                    "CC015ns3nmXWhYwLgP03hFCoAMdeQpMICXjnl4YPaXQp7nt+qTttSYlKQoP6ewTtxQ9BOWj" +
-                    "Ze8k9IErbos4S3ibCS8iP4fwtgSemg8c1ePnHnYSq5ejTMikWXt2KFLaGdeYcKFWZKiKk1W1A" +
-                    "D88ZwNGUA6I5bLax06KagmNAPs8FIgZWijx48WUBjIt51Gz7u0FEGANCgM2YeeXyFO+njavK5+" +
-                    "R7P8oqcsMNCl50KzB7ofWAR1DflPB"
+                "API INFO",
+                "API INFO",
+            "API INFO"
                  );
 
         //Connect to AmazonS3 service and store in an object
